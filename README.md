@@ -1,3 +1,6 @@
 # mwx-kashiwagi-masato
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roymwxuk&layout=compact)
+- [LinkedIn](https://www.linkedin.com/in/masato-kashiwagi/)
+
+## Projects
+- [CardWisser](https://app.roymwxuk.uk)
